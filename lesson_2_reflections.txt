@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+All files in that directory will be track as a single unit. That is important when the files are related and a change in one file can affect the content of the other file.
