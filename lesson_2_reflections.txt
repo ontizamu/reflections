@@ -8,3 +8,6 @@ The staging area allows you to work with only some files at a time and don't hav
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches can be helpful when we want to make changes that will cause the program to act different than the master version. Branches allow us to make these changes and still have the master version. The language example was a good one.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams are very useful to visualize all the branches, it is not easy to understand the structure just looking at text.
