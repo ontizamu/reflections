@@ -14,3 +14,6 @@ The diagrams are very useful to visualize all the branches, it is not easy to un
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging the funcionality of two separate pieces of code. The diagram shows us how after the merge both branches will become one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging is faster and it probably will be safer than merging manually. The cons is that automatically merging could result in programs that do not work because some changes could affect the previous code.
