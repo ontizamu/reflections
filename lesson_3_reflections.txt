@@ -9,3 +9,6 @@ Forks are used to make a copy of someone else's repository in your GitHub accoun
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 When you are working on a team, having a copy of the last known state of the remote stored locally is important because you can always abe aware of the changes made by other members of the team.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I can use e-mail, dropbox or google drive to collaborate, but I think GitHub will be easier because it has been design for collaboration and has all the project history.
